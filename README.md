@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gabie0208
 - 😊 Undergraduate student in Sogang Univ.
 - 👀 I’m interested in Natural Language Processing
-- 🌱 I’m currently learning C++, JS, python, unix & linux
+- 🌱 I’m currently studying MLM based on Deep Learning
 - 📫 If you want to contact me -----> wg4257@u.sogang.ac.kr
 
 <!---
