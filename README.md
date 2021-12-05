@@ -2,6 +2,7 @@
 - 😊 Undergraduate student in Sogang Univ.
 - 👀 I’m interested in Natural Language Processing
 - 🌱 I’m currently studying MLM based on Deep Learning
+- ❤️ my velog https://velog.io/@gabie0208
 - 📫 If you want to contact me -----> wg4257@u.sogang.ac.kr
 
 <!---
